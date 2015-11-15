@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtDream/TimeExample">
+        <file>qml/Main.qml</file>
+    </qresource>
+</RCC>

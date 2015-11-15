@@ -1,0 +1,4 @@
+module QtDream.TimeExample
+Main 1.0 qrc:///QtDream/TimeExample/qml/Main.qml
+Clock 1.0 qrc:///QtDream/TimeExample/qml/Clock.qml
+plugin TimeExamplePlugin

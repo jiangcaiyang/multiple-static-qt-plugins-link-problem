@@ -1,0 +1,4 @@
+module QtDream.MoefouEx
+Main 1.0 qrc:///QtDream/MoefouEx/qml/Main.qml
+Clock 1.0 qrc:///QtDream/MoefouEx/qml/Clock.qml
+plugin MoefouExPlugin
